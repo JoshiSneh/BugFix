@@ -5,7 +5,7 @@ Default admin email id and password are :-
 Email - admin@admin.com
 Password - 1234
 
-Default user email id and password are :- \n
+Default user email id and password are :-
 Email - user@user.com
 Password - 1234
 
